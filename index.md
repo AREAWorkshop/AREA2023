@@ -44,7 +44,8 @@ image: https://areaworkshop.github.io/AREA2023/images/logos/area_logo_1.png
 ## Under Construction
 Check back soon!
 
-
+</div>
+</div>
 
 <div class="columns large-5" >
 <div markdown="1">
