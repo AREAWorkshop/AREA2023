@@ -20,6 +20,9 @@ image: https://areaworkshop.github.io/AREA2023/images/logos/area_logo_1.png
 <div class="columns large-5" >
 <div markdown="1">
 
+<div>
+<img src="https://areaworkshop.github.io/AREA2023/images/logos/area_logo_1.png" style="width:250px"/>
+</div>
 <!--<div style="float:left; clear:right; width:50%">
 <img src="https://areaworkshop.github.io/AREA2022/images/logos/ijcai_logo.png" style="width:100px"/>
 </div>
