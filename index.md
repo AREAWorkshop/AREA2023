@@ -11,7 +11,7 @@ image: https://areaworkshop.github.io/AREA2023/images/logos/area_logo_1.png
 <img src="https://areaworkshop.github.io/AREA2023/images/logos/area_logo_1.png" style="width:250px"/>
 </div>-->
 <div>
-<img src="https://areaworkshop.github.io/AREA2023/images/logos/area_logo_1.png" style="width:250px"/>
+<a href="[https://areaworkshop.github.io/](https://areaworkshop.github.io/)" target="_blank"><img src="https://areaworkshop.github.io/AREA2023/images/logos/area_logo_1.png" style="width:250px"/></a>
 </div>
 
 </div>
