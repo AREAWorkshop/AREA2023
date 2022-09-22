@@ -4,7 +4,7 @@ title: "Workshop on Agents and Robots for reliable Engineered Autonomy"
 image: https://areaworkshop.github.io/AREA2023/images/logos/area_logo_1.png
 ---
 
-<div class="columns large-7" >
+<div class="columns large-12" >
 <div markdown="1">
 
 <!--<div style="float:left; clear:right; width:50%">
@@ -17,21 +17,18 @@ image: https://areaworkshop.github.io/AREA2023/images/logos/area_logo_1.png
 </div>
 </div>
 
-<div class="columns large-5" >
+<!--<div class="columns large-5" >
 <div markdown="1">
 
-<div>
-<img src="https://areaworkshop.github.io/AREA2023/images/logos/area_logo_1.png" style="width:250px"/>
-</div>
-<!--<div style="float:left; clear:right; width:50%">
+<div style="float:left; clear:right; width:50%">
 <img src="https://areaworkshop.github.io/AREA2022/images/logos/ijcai_logo.png" style="width:100px"/>
 </div>
 <div>
 <a href="https://ijcai-22.org/" target="_blank"><img src="https://areaworkshop.github.io/AREA2022/images/logos/ijcai_logo.png" style="width:100px"/></a>
-</div>-->
+</div>
 
 </div>
-</div>
+</div>-->
 
 <br />&nbsp;
 
