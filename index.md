@@ -118,7 +118,7 @@ Submission link: <a href="https://easychair.org/my/conference?conf=area23">https
 
 <ul>
   <li>Paper Submission Deadline: 18th July 2023 (AoE, UTC-12)</li> 
-  <li>Paper Notification: 12th August 2023 (AoE, UTC-12)</li>
+  <li>Paper Notification: 14th August 2023 (AoE, UTC-12)</li>
   <li>Camera Ready: 10th September 2023 (AoE, UTC-12)</li>
   <li>Workshop: 30th September - 1st October 2023 (exact day TBA)</li>
 </ul>
