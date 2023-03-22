@@ -127,8 +127,8 @@ Submission link: <a href="https://easychair.org/my/conference?conf=area23">https
 ## Organisers
 
 <ul>
-  <li><a href="https://rafaelcaue.github.io/" target="_blank">Rafael C. Cardoso</a>, University of Aberdeen (UK)</li>
   <li><a href="https://angeloferrando.github.io/website/" target="_blank">Angelo Ferrando</a>, University of Genova (Italy)</li>
+  <li><a href="https://rafaelcaue.github.io/" target="_blank">Rafael C. Cardoso</a>, University of Aberdeen (UK)</li>
 </ul>
 
 ## Contact Information
