@@ -38,8 +38,74 @@ image: https://areaworkshop.github.io/AREA2023/images/logos/area_logo_1.png
 <div class="columns large-7" >
 <div markdown="1">
   
-## Under Construction
-Check back soon!
+## Aim
+
+<p align="justify">
+Autonomous agents is a well-established area that has been researched for decades, both from a design and implementation viewpoint. Nonetheless, the application of agents in real-world scenarios has largely been adopted in applications which are primarily software based, and remains limited in applications which involve physical interaction. In parallel, robots are no longer used only in tightly constrained industrial applications but are instead being applied in an increasing number of domains, ranging from robotic assistants to search and rescue, where the working environment is both dynamic and underspecified, and may involve interactions between multiple robots and humans.<br>
+<br>
+  This presents significant challenges to traditional software engineering methodologies. Increased autonomy is an important route to enabling robotic applications to function in these environments, and autonomous agents and multi-agent systems are a promising approach to their engineering. As autonomy and interaction increases, the engineering of reliable behaviour becomes more challenging (both in robotic applications and in more traditional autonomous agent settings), and so there is a need for research into new approaches to verification and validation that can be integrated in the engineering lifecycle of these systems.<br>
+<br>
+  This workshop aims to bring together researchers from the autonomous agents and the robotics communities, since combining knowledge from these two research areas may lead to innovative approaches that solve complex problems related to the verification and validation of autonomous robotic systems. Therefore, we encourage submissions that combine agents, robots, software engineering, and verification, but we also welcome papers focused on one of these areas, as long as their applicability to the other areas is explicit.
+</p>
+
+<!---
+## Motivation
+
+## Aim
+--->
+
+## List of Topics
+
+<ul>
+  <li> Agent-based modular architectures applicable to robots </li>
+   <li> Agent oriented software engineering to model high-level control in robotic development </li>
+   <li> Agent programming languages and tools for developing robotic or intelligent autonomous systems</li>
+   <li> Coordination, interaction, and negotiation protocols for agents and robots</li>
+   <li> Distributed problem solving and automated planning in autonomous systems</li>
+   <li> Fault tolerance, health-management, and long-term autonomy</li>
+   <li> Real world applications of autonomous agents and multi-agent systems in robotics</li>
+   <li> Real-time multi-agent systems</li>
+   <li> Reliable software engineering of autonomy</li>
+   <li> Runtime verification of autonomous agents and robotic systems</li>
+   <li> Task and resource allocation in multi-robot systems</li>
+   <li> Verification and validation of autonomous systems</li>
+   <li> Testing and simulation tools and techniques for autonomous or robotic systems</li>
+   <li> Engineering reliable interactions between humans and autonomous robots or agents</li>
+   <li> Verification and validation of human-robot interactions</li>
+   <li> Engineering transparent decision making for autonomous systems</li>
+</ul>
+
+
+## Workshop Format
+
+<p align="justify">
+This event is planned as a half-day workshop taking approximately 5 hours. Depending on the number of submissions, we may organise a discussion panel at the end. We also have two invited talks.
+</p>
+
+## Submission Instructions
+
+<p align="justify">
+Participants are invited to submit either:
+<ul>
+  <li><b>a full length research paper</b>
+    &mdash;
+    a technical paper describing technically sound, innovative ideas that can advance the engineering/reliability of agents and robots; an application/case study paper, with emphasis on robotic applications where agents techniques have been applied; a survey paper on one of the topics of interest.</li>
+  <li><b>a short paper</b>
+    &mdash;
+    a position paper describing relevant questions and issues that participants feel should be addressed; a demo paper describing a demonstration of an agent/robotic application, system or tool; a new idea in the field which is not ready for publication as a regular paper.</li>
+</ul>
+</p>
+<p align="justify">
+Full-length research papers must not exceed twelve (12) pages single column, and short papers must not exceed six (6) pages single column, excluding references and appendices. All submissions must be in English and PDF format.
+Each submission will receive at least three single-blind reviews. All papers should be original and not be submitted elsewhere. The review process is single-blind: submissions should not be blind, reviewers will be.
+<br><br>
+<b>The AREA workshop is going to be an in-person event (following ECAI 2023 guidelines).</b> At least one author of each accepted paper has to register to the Workshop (via ECAI 2023 website, fees will be made available soon). Authors that cannot come in person to the event will be allowed to present their contribution online as long as they have registered for the workshop (no discount fees will be available, ECAI 2023 is entirely physical, we are only aiming to give the option to people that want to participate but will not be able to attend in person).
+<br><br>
+The proceedings of the workshop will be published with EPTCS (<a href="http://www.eptcs.org/">http://www.eptcs.org/</a>). Formatting guidelines should follow EPTCS style: <a href="http://style.eptcs.org/">http://style.eptcs.org/</a>
+<br><br>
+Submission link: <a href="https://easychair.org/my/conference?conf=area23">https://easychair.org/my/conference?conf=area23</a>
+</p>
+
 
 </div>
 </div>
@@ -51,7 +117,10 @@ Check back soon!
 ## Important Dates
 
 <ul>
-<li>TBA</li>
+  <li>Paper Submission Deadline: 18th July 2023 (AoE, UTC-12)</li> 
+  <li>Paper Notification: 12th August 2023 (AoE, UTC-12)</li>
+  <li>Camera Ready: 10th September 2023 (AoE, UTC-12)</li>
+  <li>Workshop: 30th September - 1st October 2023 (exact day TBA)</li>
 </ul>
   
 
