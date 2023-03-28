@@ -128,7 +128,34 @@ TBA
 </ul>
 
 ## Program Committee
-TBA
+<ul>
+  <li>Tobias Ahlbrecht, Clausthal University of Technology (Germany)</li>
+<li>Gleifer Vaz Alves, Federal University of Technology – Paraná (Brazil)</li>
+<li>Mehrnoosh Askarpour, McMaster University / GM (Canada)</li>
+  <li>Amel Bennaceur, The Open University (UK)</li>
+ <!--- <li>Daniela Briola, University of Milano Bicocca (Italy)</li> --->
+  <li> Louise A. Dennis, The University of Manchester (UK)</li>
+  <li>Babak Esfandiari, Carleton University (Canada)</li>
+  <li>Marie Farrell, The University of Manchester (UK)</li>
+<li>Jomi F. Hübner, UFSC (Brazil)</li>
+  <li>Erez Karpas, Technion – Israel Institute of Technology (Israel)</li>
+  <li>Rafał	Kucharski, Jagiellonian University (Poland)</li>
+  <li>Charles Lesire, ONERA (French Aerospace Lab) (France)</li>
+  <li>Livia Lestingi, Politecnico di Milano (Italy)</li>
+  <!---  <li>Matt Luckcuck, Maynooth University (Ireland)</li>  --->
+  <li>Vadim Malvone, Telecom Paris (France)</li>
+<!---<li>Viviana Mascardi, Genoa University (Italy)</li>
+  <li>Claudio Menghi, McMaster University (Canada)</li>--->
+<li>Eva Onaindia, Polytechnic University of Valencia (Spain)</li>
+<!---<li>Fabrizio Pastore, SnT Centre for Security Reliability and Trust (Luxembourg)</li>--->
+  <li>Fabio Papacchini, Lancaster University Leipzig (Germany)</li>
+  <li>Terry Payne, University of Liverpool (UK)</li>
+  <li>Mohammad Mehdi Pourhashem, University of Science and Technology of Mazandaran (Iran)</li>
+<li>Pedro Ribeiro, University of York (UK)</li>
+<!-- <li>Alessandro Ricci, University of Bologna (Italy)</li> 
+  <li>Matteo Rossi, Politecnico di Milano (Italy)</li>-->
+<li>Christos Tsigkanos, Technical University of Vienna (Austria)</li>
+</ul>
 
 ## Contact Information
 
