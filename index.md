@@ -142,7 +142,7 @@ TBA
   <li>Rafał	Kucharski, Jagiellonian University (Poland)</li>
   <li>Charles Lesire, ONERA (French Aerospace Lab) (France)</li>
   <li>Livia Lestingi, Politecnico di Milano (Italy)</li>
-  <!---  <li>Matt Luckcuck, Maynooth University (Ireland)</li>  --->
+  <li>Matt Luckcuck, University of Derby (UK)</li> 
   <li>Vadim Malvone, Telecom Paris (France)</li>
 <!---<li>Viviana Mascardi, Genoa University (Italy)</li>
   <li>Claudio Menghi, McMaster University (Canada)</li>--->
@@ -154,7 +154,7 @@ TBA
 <li>Pedro Ribeiro, University of York (UK)</li>
 <!-- <li>Alessandro Ricci, University of Bologna (Italy)</li> 
   <li>Matteo Rossi, Politecnico di Milano (Italy)</li>-->
-<li>Christos Tsigkanos, Technical University of Vienna (Austria)</li>
+<li>Christos Tsigkanos, University of Bern (Switzerland)</li>
 </ul>
 
 ## Contact Information
