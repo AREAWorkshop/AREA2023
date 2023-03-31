@@ -132,11 +132,13 @@ TBA
   <li>Tobias Ahlbrecht, Clausthal University of Technology (Germany)</li>
 <li>Gleifer Vaz Alves, Federal University of Technology – Paraná (Brazil)</li>
 <li>Mehrnoosh Askarpour, McMaster University / GM (Canada)</li>
+  <li>Francesco	Belardinelli, Imperial College London (UK)</li>
   <li>Amel Bennaceur, The Open University (UK)</li>
  <!--- <li>Daniela Briola, University of Milano Bicocca (Italy)</li> --->
   <li> Louise A. Dennis, The University of Manchester (UK)</li>
   <li>Babak Esfandiari, Carleton University (Canada)</li>
   <li>Marie Farrell, The University of Manchester (UK)</li>
+  <li>Enrico Ghiorzi, Istituto Italiano di Tecnologia - IIT (Italy)</li>
 <li>Jomi F. Hübner, UFSC (Brazil)</li>
   <li>Erez Karpas, Technion – Israel Institute of Technology (Israel)</li>
   <li>Rafał	Kucharski, Jagiellonian University (Poland)</li>
@@ -144,6 +146,8 @@ TBA
   <li>Livia Lestingi, Politecnico di Milano (Italy)</li>
   <li>Matt Luckcuck, University of Derby (UK)</li> 
   <li>Vadim Malvone, Telecom Paris (France)</li>
+  <li>Stefania Monica, Università degli studi di Modena e Reggio Emilia (Italy)</li>
+  <li>Chunyan Mu, University of Aberdeen (UK)</li>
 <!---<li>Viviana Mascardi, Genoa University (Italy)</li>
   <li>Claudio Menghi, McMaster University (Canada)</li>--->
 <li>Eva Onaindia, Polytechnic University of Valencia (Spain)</li>
