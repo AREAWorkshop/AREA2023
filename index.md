@@ -148,7 +148,7 @@ TBA
   <li>Vadim Malvone, Telecom Paris (France)</li>
   <li>Stefania Monica, Università degli studi di Modena e Reggio Emilia (Italy)</li>
   <li>Chunyan Mu, University of Aberdeen (UK)</li>
-  <li>Viviana Mascardi, Genoa University (Italy)
+  <li>Viviana Mascardi, Genoa University (Italy)</li>
   <!---<li>Claudio Menghi, McMaster University (Canada)</li>--->
 <li>Eva Onaindia, Polytechnic University of Valencia (Spain)</li>
 <!---<li>Fabrizio Pastore, SnT Centre for Security Reliability and Trust (Luxembourg)</li>--->
