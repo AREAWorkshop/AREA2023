@@ -148,8 +148,8 @@ TBA
   <li>Vadim Malvone, Telecom Paris (France)</li>
   <li>Stefania Monica, Università degli studi di Modena e Reggio Emilia (Italy)</li>
   <li>Chunyan Mu, University of Aberdeen (UK)</li>
-<!---<li>Viviana Mascardi, Genoa University (Italy)</li>
-  <li>Claudio Menghi, McMaster University (Canada)</li>--->
+  <li>Viviana Mascardi, Genoa University (Italy)
+  <!---<li>Claudio Menghi, McMaster University (Canada)</li>--->
 <li>Eva Onaindia, Polytechnic University of Valencia (Spain)</li>
 <!---<li>Fabrizio Pastore, SnT Centre for Security Reliability and Trust (Luxembourg)</li>--->
   <li>Fabio Papacchini, Lancaster University Leipzig (Germany)</li>
@@ -158,6 +158,7 @@ TBA
 <li>Pedro Ribeiro, University of York (UK)</li>
 <!-- <li>Alessandro Ricci, University of Bologna (Italy)</li> 
   <li>Matteo Rossi, Politecnico di Milano (Italy)</li>-->
+  <li>Lavindra da Silva, University of Cambridge (UK)</li>
 <li>Christos Tsigkanos, University of Bern (Switzerland)</li>
 </ul>
 
