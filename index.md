@@ -118,7 +118,10 @@ TBA
 --->
 
 ## Invited Speakers
-TBA
+<ul>
+  <li>Viviana Mascardi, Genoa University (Italy)</li>
+  <li>TBA</li>
+</ul>
 
 ## Organisers
 
