@@ -33,6 +33,139 @@ image: https://areaworkshop.github.io/AREA2023/images/logos/area_logo_1.png
 
 <div class="columns large-7" >
 <div markdown="1">
+
+
+## Workshop Programme
+
+Time in <a href="https://time.is/CEST">CEST timezone</a>.
+
+<table>
+    <body>
+        <tr>
+            <th>09:00</th>
+            <td colspan="4" class="stage-saturn">Welcome</td>
+        </tr>
+        <tr>
+            <th>09:05</th>
+            <td colspan="4" class="stage-earth">Invited talk 1 <!-- 40 minutes : <a href="https://alechina-logan.net/brian/" target="_blank">Brian Logan</a> <i style="font-size:12px">[Chair: Rafael C. Cardoso]</i>-->
+              <!--<span> 
+                  <b>Title:</b> <i>TITLE</i> <br/>
+                  <b>Abstract:</b> ABSTRACT.. <span id="dots1">...</span> <span id="more1" style="display:none">MORE ABSTRACT..<br/>
+                  <b>Short Bio:</b> BIO
+                  </span>
+              <button style="color:blue;" onclick="myFunction1()" id="myBtn1">Read more</button>
+              </span>-->
+            </td>
+        </tr>
+        <tr>
+            <th>09:45</th>
+            <td colspan="4" class="stage-venus">
+            Session 1: TBA <!--[<i style="font-size:12px">Chair: Fabio Papacchini</i>]-->
+            <!--<span>
+              <i>TITLE [LONG PAPER] 25 min</i><br/>  
+              AUTHORS
+            </span>
+            <br/>
+            <span>
+              <i>TITLE [SHORT PAPER] 18 min</i><br/>
+              AUTHORS
+            </span>-->
+            </td>
+        </tr>
+        <tr>
+            <th>10:30</th>
+            <td colspan="4" class="stage-mercury">Coffee Break</td>
+        </tr>
+        <tr>
+            <th>11:00</th>
+            <td colspan="4" class="stage-mars">
+            Session 2: TBA <!--[<i style="font-size:12px">Chair: Rafael C. Cardoso</i>]-->
+            <!--<span>
+              <i>TITLE [LONG PAPER] 25 min</i><br/>  
+              AUTHORS
+            </span>
+            <br/>
+            <span>
+              <i>TITLE [SHORT PAPER] 18 min</i><br/>
+              AUTHORS
+            </span>
+            <span>
+              <i>TITLE [LONG PAPER] 25 min</i><br/>  
+              AUTHORS
+            </span>
+            <br/>
+            <span>
+              <i>TITLE [SHORT PAPER] 18 min</i><br/>
+              AUTHORS
+            </span>-->
+            </td>
+        </tr>
+        <tr>
+            <th>12:30</th>
+            <td colspan="4" class="stage-mercury">Lunch</td>
+        </tr>
+        <tr>
+            <th>13:30</th>
+            <td colspan="4" class="stage-earth">Invited talk 2 <!-- 40 minutes : <a href="https://alechina-logan.net/brian/" target="_blank">Brian Logan</a> <i style="font-size:12px">[Chair: Rafael C. Cardoso]</i>-->
+              <!--<span> 
+                  <b>Title:</b> <i>TITLE</i> <br/>
+                  <b>Abstract:</b> ABSTRACT.. <span id="dots1">...</span> <span id="more2" style="display:none">MORE ABSTRACT..<br/>
+                  <b>Short Bio:</b> BIO
+                  </span>
+              <button style="color:blue;" onclick="myFunction2()" id="myBtn2">Read more</button>
+              </span>-->
+            </td>
+        </tr>
+        <tr>
+            <th>14:10</th>
+            <td colspan="4" class="stage-venus">
+            Session 3: TBA <!--[<i style="font-size:12px">Chair: Fabio Papacchini</i>]-->
+            <!--<span>
+              <i>TITLE [LONG PAPER] 25 min</i><br/>  
+              AUTHORS
+            </span>
+            <br/>
+            <span>
+              <i>TITLE [LONG PAPER] 25 min</i><br/>
+              AUTHORS
+            </span>-->
+            </td>
+        </tr>
+        <tr>
+            <th>15:00</th>
+            <td colspan="4" class="stage-mercury">Coffee Break</td>
+        </tr>
+        <tr>
+            <th>15:30</th>
+            <td colspan="4" class="stage-mars">
+            Session 4: TBA <!--[<i style="font-size:12px">Chair: Rafael C. Cardoso</i>]-->
+            <!--<span>
+              <i>TITLE [LONG PAPER] 25 min</i><br/>  
+              AUTHORS
+            </span>
+            <br/>
+            <span>
+              <i>TITLE [SHORT PAPER] 18 min</i><br/>
+              AUTHORS
+            </span>
+            <span>
+              <i>TITLE [LONG PAPER] 25 min</i><br/>  
+              AUTHORS
+            </span>
+            <br/>
+            <span>
+              <i>TITLE [SHORT PAPER] 18 min</i><br/>
+              AUTHORS
+            </span>-->
+            </td>
+        </tr>
+        <tr>
+            <th>16:55</th>
+            <td colspan="4" class="stage-saturn">Closing remarks
+            </td>
+        </tr>
+    </body>
+</table>
   
 ## Aim
 
@@ -112,10 +245,9 @@ Submission link: <a href="https://easychair.org/my/conference?conf=area2023">htt
   
 
 ## Registration
-TBA
-<!---
-  Please register at <a href="https://ijcai-22.org/register/" target="_blank">https://ijcai-22.org/register/</a>, and make sure that you select and add W06 under Select Workshop in WORKSHOPS & TUTORIALS
---->
+
+Please register at <a href="https://ecai2023.eu/registrations" target="_blank">https://ecai2023.eu/registrations</a>, and make sure that you select and add AREA as one of the workshops you are going to participate.
+
 
 ## Invited Speakers
 <ul>
@@ -133,16 +265,16 @@ TBA
 ## Program Committee
 <ul>
   <li>Tobias Ahlbrecht, Clausthal University of Technology (Germany)</li>
-<li>Gleifer Vaz Alves, Federal University of Technology – Paraná (Brazil)</li>
-<li>Mehrnoosh Askarpour, McMaster University / GM (Canada)</li>
+  <li>Gleifer Vaz Alves, Federal University of Technology – Paraná (Brazil)</li>
+  <li>Mehrnoosh Askarpour, McMaster University / GM (Canada)</li>
   <li>Francesco	Belardinelli, Imperial College London (UK)</li>
   <li>Amel Bennaceur, The Open University (UK)</li>
- <!--- <li>Daniela Briola, University of Milano Bicocca (Italy)</li> --->
+  <li>Daniela Briola, University of Milano Bicocca (Italy)</li>
   <li> Louise A. Dennis, The University of Manchester (UK)</li>
   <li>Babak Esfandiari, Carleton University (Canada)</li>
   <li>Marie Farrell, The University of Manchester (UK)</li>
   <li>Enrico Ghiorzi, Istituto Italiano di Tecnologia - IIT (Italy)</li>
-<li>Jomi F. Hübner, UFSC (Brazil)</li>
+  <li>Jomi F. Hübner, UFSC (Brazil)</li>
   <li>Erez Karpas, Technion – Israel Institute of Technology (Israel)</li>
   <li>Rafał	Kucharski, Jagiellonian University (Poland)</li>
   <li>Charles Lesire, ONERA (French Aerospace Lab) (France)</li>
@@ -153,16 +285,16 @@ TBA
   <li>Chunyan Mu, University of Aberdeen (UK)</li>
   <li>Viviana Mascardi, Genoa University (Italy)</li>
   <!---<li>Claudio Menghi, McMaster University (Canada)</li>--->
-<li>Eva Onaindia, Polytechnic University of Valencia (Spain)</li>
+  <li>Eva Onaindia, Polytechnic University of Valencia (Spain)</li>
 <!---<li>Fabrizio Pastore, SnT Centre for Security Reliability and Trust (Luxembourg)</li>--->
   <li>Fabio Papacchini, Lancaster University Leipzig (Germany)</li>
   <li>Terry Payne, University of Liverpool (UK)</li>
   <li>Mohammad Mehdi Pourhashem, University of Science and Technology of Mazandaran (Iran)</li>
-<li>Pedro Ribeiro, University of York (UK)</li>
+  <li>Pedro Ribeiro, University of York (UK)</li>
 <!-- <li>Alessandro Ricci, University of Bologna (Italy)</li> 
   <li>Matteo Rossi, Politecnico di Milano (Italy)</li>-->
   <li>Lavindra da Silva, University of Cambridge (UK)</li>
-<li>Christos Tsigkanos, University of Bern (Switzerland)</li>
+  <li>Christos Tsigkanos, University of Bern (Switzerland)</li>
 </ul>
 
 ## Contact Information
