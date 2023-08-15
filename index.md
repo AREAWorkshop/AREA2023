@@ -218,7 +218,7 @@ Participants are invited to submit either:
 Full-length research papers must not exceed twelve (12) pages single column excluding references and appendices and short papers must not exceed six (6) pages single column excluding references and appendices. All submissions must be in English and PDF format.
 Each submission will receive at least three single-blind reviews. All papers should be original and not be submitted elsewhere. The review process is single-blind: submissions should not be blind, reviewers will be.
 <br><br>
-<b>The AREA workshop is going to be an in-person event (following ECAI 2023 guidelines).</b> At least one author of each accepted paper has to register to the workshop (via ECAI 2023 website, links and fees will be made available soon).
+<b>The AREA workshop is going to be an in-person event (following ECAI 2023 guidelines).</b> At least one author of each accepted paper has to register to the workshop (via ECAI 2023 website, <a href="https://ecai2023.eu/registrations" target="_blank">https://ecai2023.eu/registrations</a>).
 <br><br>
 The proceedings of the workshop will be published with EPTCS (<a href="http://www.eptcs.org/">http://www.eptcs.org/</a>). Formatting guidelines should follow EPTCS style: <a href="http://style.eptcs.org/">http://style.eptcs.org/</a>
 <br><br>
