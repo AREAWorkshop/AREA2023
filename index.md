@@ -58,7 +58,7 @@ Time in <a href="https://time.is/CEST">CEST timezone</a>.
             </td>
         </tr>
         <tr>
-            <th>09:45</th>
+            <th>09:50</th>
             <td colspan="4" class="stage-venus">
             Session 1: TBA <!--[<i style="font-size:12px">Chair: Fabio Papacchini</i>]-->
             <!--<span>
@@ -67,7 +67,7 @@ Time in <a href="https://time.is/CEST">CEST timezone</a>.
             </span>
             <br/>
             <span>
-              <i>TITLE [SHORT PAPER] 18 min</i><br/>
+              <i>TITLE [SHORT PAPER] 15 min</i><br/>
               AUTHORS
             </span>-->
             </td>
@@ -86,7 +86,7 @@ Time in <a href="https://time.is/CEST">CEST timezone</a>.
             </span>
             <br/>
             <span>
-              <i>TITLE [SHORT PAPER] 18 min</i><br/>
+              <i>TITLE [LONG PAPER] 25 min</i><br/>
               AUTHORS
             </span>
             <span>
@@ -95,7 +95,7 @@ Time in <a href="https://time.is/CEST">CEST timezone</a>.
             </span>
             <br/>
             <span>
-              <i>TITLE [SHORT PAPER] 18 min</i><br/>
+              <i>TITLE [SHORT PAPER] 15 min</i><br/>
               AUTHORS
             </span>-->
             </td>
@@ -117,7 +117,7 @@ Time in <a href="https://time.is/CEST">CEST timezone</a>.
             </td>
         </tr>
         <tr>
-            <th>14:10</th>
+            <th>14:15</th>
             <td colspan="4" class="stage-venus">
             Session 3: TBA <!--[<i style="font-size:12px">Chair: Fabio Papacchini</i>]-->
             <!--<span>
@@ -126,7 +126,7 @@ Time in <a href="https://time.is/CEST">CEST timezone</a>.
             </span>
             <br/>
             <span>
-              <i>TITLE [LONG PAPER] 25 min</i><br/>
+              <i>TITLE [SHORT PAPER] 15 min</i><br/>
               AUTHORS
             </span>-->
             </td>
@@ -145,7 +145,7 @@ Time in <a href="https://time.is/CEST">CEST timezone</a>.
             </span>
             <br/>
             <span>
-              <i>TITLE [SHORT PAPER] 18 min</i><br/>
+              <i>TITLE [SHORT PAPER] 15 min</i><br/>
               AUTHORS
             </span>
             <span>
@@ -154,13 +154,13 @@ Time in <a href="https://time.is/CEST">CEST timezone</a>.
             </span>
             <br/>
             <span>
-              <i>TITLE [SHORT PAPER] 18 min</i><br/>
+              <i>TITLE [SHORT PAPER] 15 min</i><br/>
               AUTHORS
             </span>-->
             </td>
         </tr>
         <tr>
-            <th>16:55</th>
+            <th>16:50</th>
             <td colspan="4" class="stage-saturn">Closing remarks
             </td>
         </tr>
