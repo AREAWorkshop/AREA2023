@@ -270,7 +270,7 @@ Please register at <a href="https://ecai2023.eu/registrations" target="_blank">h
   <li>Francesco	Belardinelli, Imperial College London (UK)</li>
   <li>Amel Bennaceur, The Open University (UK)</li>
   <li>Daniela Briola, University of Milano Bicocca (Italy)</li>
-  <li> Louise A. Dennis, The University of Manchester (UK)</li>
+  <li>Louise A. Dennis, The University of Manchester (UK)</li>
   <li>Babak Esfandiari, Carleton University (Canada)</li>
   <li>Marie Farrell, The University of Manchester (UK)</li>
   <li>Enrico Ghiorzi, Istituto Italiano di Tecnologia - IIT (Italy)</li>
@@ -288,12 +288,12 @@ Please register at <a href="https://ecai2023.eu/registrations" target="_blank">h
   <li>Eva Onaindia, Polytechnic University of Valencia (Spain)</li>
 <!---<li>Fabrizio Pastore, SnT Centre for Security Reliability and Trust (Luxembourg)</li>--->
   <li>Fabio Papacchini, Lancaster University Leipzig (Germany)</li>
-  <li>Terry Payne, University of Liverpool (UK)</li>
+  <!--<li>Terry Payne, University of Liverpool (UK)</li>-->
   <li>Mohammad Mehdi Pourhashem, University of Science and Technology of Mazandaran (Iran)</li>
   <li>Pedro Ribeiro, University of York (UK)</li>
 <!-- <li>Alessandro Ricci, University of Bologna (Italy)</li> 
   <li>Matteo Rossi, Politecnico di Milano (Italy)</li>-->
-  <li>Lavindra da Silva, University of Cambridge (UK)</li>
+  <!--<li>Lavindra da Silva, University of Cambridge (UK)</li>-->
   <li>Christos Tsigkanos, University of Bern (Switzerland)</li>
 </ul>
 
