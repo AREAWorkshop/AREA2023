@@ -63,7 +63,7 @@ Time in <a href="https://time.is/CEST">CEST timezone</a>.
         <tr>
             <th>09:50</th>
             <td colspan="4" class="stage-venus">
-            <b>Session 1: Robot</b> <!--[<i style="font-size:12px">Chair: Fabio Papacchini</i>]-->
+            <b>Session 1: Robotics</b> <!--[<i style="font-size:12px">Chair: Fabio Papacchini</i>]-->
             <br/>
             <span>
               <i>Online Proactive Multi-Task Assignment with Resource Availability Anticipation</i><br/>  
@@ -125,7 +125,7 @@ Time in <a href="https://time.is/CEST">CEST timezone</a>.
         <tr>
             <th>14:15</th>
             <td colspan="4" class="stage-venus">
-            <b>Session 3: Robot</b> <!--[<i style="font-size:12px">Chair: Fabio Papacchini</i>]-->
+            <b>Session 3: Robotics</b> <!--[<i style="font-size:12px">Chair: Fabio Papacchini</i>]-->
             <br/>
             <span>
               <i>Adaptive Application Behaviour for Robot Swarms using Mixed-Criticality</i><br/>  
