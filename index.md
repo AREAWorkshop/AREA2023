@@ -40,7 +40,10 @@ image: https://areaworkshop.github.io/AREA2023/images/logos/area_logo_1.png
 Time in <a href="https://time.is/CEST">CEST timezone</a>.
 
 <b>Long papers:</b> 25 min (20 min + 5 min Q&A)<br/>
-<b>Short papers:</b> 15 min (12 min + 3 min Q&A)
+<b>Short papers:</b> 15 min (12 min + 3 min Q&A)<br/>
+
+<img src="./images/logos/s_icon.png" style="width:20px"/> = short papers <br/>
+<img src="./images/logos/f_icon.png" style="width:20px"/> = long papers
 
 <table>
     <body>
@@ -66,12 +69,12 @@ Time in <a href="https://time.is/CEST">CEST timezone</a>.
             <b>Session 1: Robotics</b> <!--[<i style="font-size:12px">Chair: Fabio Papacchini</i>]-->
             <br/>
             <span>
-              <i>Online Proactive Multi-Task Assignment with Resource Availability Anticipation</i><br/>  
+             <img src="./images/logos/f_icon.png" style="width:20px"/> <i>Online Proactive Multi-Task Assignment with Resource Availability Anticipation</i><br/>  
               Déborah Conforto Nedelmann, Jerôme Lacan and Caroline Chanel
             </span>
             <br/>
             <span>
-              <i>From Robot Self-Localization to Global-Localization: An RSSI Based Approach</i><br/>
+             <img src="./images/logos/s_icon.png" style="width:20px"/> <i>From Robot Self-Localization to Global-Localization: An RSSI Based Approach</i><br/>
               Athanasios Lentzas and Dimitris Vrakas
             </span>
             </td>
@@ -86,22 +89,22 @@ Time in <a href="https://time.is/CEST">CEST timezone</a>.
             <b>Session 2: Verification</b> <!--[<i style="font-size:12px">Chair: Rafael C. Cardoso</i>]-->
             <br/>
             <span>
-              <i>Safe and Robust Robot Behavior Planning via Constraint Programming</i><br/>  
+              <img src="./images/logos/f_icon.png" style="width:20px"/> <i>Safe and Robust Robot Behavior Planning via Constraint Programming</i><br/>  
               	Jan Vermaelen and Tom Holvoet
             </span>
             <br/>
             <span>
-              <i>Reasoning about Intuitionistic Computation Tree Logic</i><br/>
+             <img src="./images/logos/s_icon.png" style="width:20px"/> <i>Reasoning about Intuitionistic Computation Tree Logic</i><br/>
               	Davide Catta, Vadim Malvone and Aniello Murano
             </span>
             <br/>
             <span>
-              <i>Runtime Verification for Trustworthy Computing</i><br/>  
+             <img src="./images/logos/f_icon.png" style="width:20px"/> <i>Runtime Verification for Trustworthy Computing</i><br/>  
               	Robert Abela, Christian Colombo, Axel Curmi, Mattea Fenech, Mark Vella and Angelo Ferrando	
             </span>
             <br/>
             <span>
-              <i>The Impact of Strategies and Information in Model Checking for Multi-Agent Systems</i><br/>
+              <img src="./images/logos/s_icon.png" style="width:20px"/> <i>The Impact of Strategies and Information in Model Checking for Multi-Agent Systems</i><br/>
               Vadim Malvone
             </span>
             </td>
@@ -128,12 +131,12 @@ Time in <a href="https://time.is/CEST">CEST timezone</a>.
             <b>Session 3: Robotics</b> <!--[<i style="font-size:12px">Chair: Fabio Papacchini</i>]-->
             <br/>
             <span>
-              <i>Adaptive Application Behaviour for Robot Swarms using Mixed-Criticality</i><br/>  
+              <img src="./images/logos/f_icon.png" style="width:20px"/> <i>Adaptive Application Behaviour for Robot Swarms using Mixed-Criticality</i><br/>  
               Sven Signer and Ian Gray
             </span>
             <br/>
             <span>
-              <i>Autonomous Systems' Safety Cases for use in UK Nuclear Environments</i><br/>
+              <img src="./images/logos/s_icon.png" style="width:20px"/> <i>Autonomous Systems' Safety Cases for use in UK Nuclear Environments</i><br/>
               	Christopher Anderson and Louise Dennis
             </span>
             </td>
@@ -148,22 +151,22 @@ Time in <a href="https://time.is/CEST">CEST timezone</a>.
             <b>Session 4: Planning</b> <!--[<i style="font-size:12px">Chair: Rafael C. Cardoso</i>]-->
             <br/>
             <span>
-              <i>Evaluating Heuristic Search Algorithms in Pathfinding: A Comprehensive Study on Performance Metrics and Domain Parameters</i><br/>  
+            <img src="./images/logos/f_icon.png" style="width:20px"/> <i>Evaluating Heuristic Search Algorithms in Pathfinding: A Comprehensive Study on Performance Metrics and Domain Parameters</i><br/>  
               	Aya Kherrour, Marco Robol, Marco Roveri and Paolo Giorgini
             </span>
             <br/>
             <span>
-              <i>Rollout Heuristics for Online Stochastic Contingent Planning</i><br/>
+            <img src="./images/logos/f_icon.png" style="width:20px"/> <i>Rollout Heuristics for Online Stochastic Contingent Planning</i><br/>
               Guy Shani and Oded Blumnethal
             </span>
             <br/>
             <span>
-              <i>Multi-Robot Task Planning to Secure Human Group Progress</i><br/>  
+             <img src="./images/logos/f_icon.png" style="width:20px"/> <i>Multi-Robot Task Planning to Secure Human Group Progress</i><br/>  
               Roland Godet, Charles Lesire and Arthur Bit-Monnot
             </span>
             <br/>
             <span>
-              <i>ORTAC+ : A User Friendly Domain Specific Language for Multi-Agent Mission Planning</i><br/>
+             <img src="./images/logos/s_icon.png" style="width:20px"/> <i>ORTAC+ : A User Friendly Domain Specific Language for Multi-Agent Mission Planning</i><br/>
               	Caroline Bonhomme and Jean-Louis Dufour
             </span>
             </td>
