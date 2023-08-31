@@ -136,7 +136,7 @@ Time in <a href="https://time.is/CEST">CEST timezone</a>.
             </span>
             <br/>
             <span>
-              <img src="./images/logos/s_icon.png" style="width:20px"/> <i>Autonomous Systems' Safety Cases for use in UK Nuclear Environments</i><br/>
+              <img src="./images/logos/s_icon.png" style="width:20px"/> <i>Autonomous Systems' Safety Cases for use in UK Nuclear Environments [online]</i><br/>
               	Christopher Anderson and Louise Dennis
             </span>
             </td>
@@ -151,13 +151,13 @@ Time in <a href="https://time.is/CEST">CEST timezone</a>.
             <b>Session 4: Planning</b> <!--[<i style="font-size:12px">Chair: Rafael C. Cardoso</i>]-->
             <br/>
             <span>
-            <img src="./images/logos/f_icon.png" style="width:20px"/> <i>Evaluating Heuristic Search Algorithms in Pathfinding: A Comprehensive Study on Performance Metrics and Domain Parameters</i><br/>  
-              	Aya Kherrour, Marco Robol, Marco Roveri and Paolo Giorgini
+            <img src="./images/logos/f_icon.png" style="width:20px"/> <i>Rollout Heuristics for Online Stochastic Contingent Planning [online]</i><br/>
+              Guy Shani and Oded Blumnethal
             </span>
             <br/>
             <span>
-            <img src="./images/logos/f_icon.png" style="width:20px"/> <i>Rollout Heuristics for Online Stochastic Contingent Planning</i><br/>
-              Guy Shani and Oded Blumnethal
+            <img src="./images/logos/f_icon.png" style="width:20px"/> <i>Evaluating Heuristic Search Algorithms in Pathfinding: A Comprehensive Study on Performance Metrics and Domain Parameters</i><br/>  
+              	Aya Kherrour, Marco Robol, Marco Roveri and Paolo Giorgini
             </span>
             <br/>
             <span>
