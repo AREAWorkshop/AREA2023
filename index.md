@@ -53,7 +53,7 @@ Time in <a href="https://time.is/CEST">CEST timezone</a>.
         </tr>
         <tr>
             <th>09:05</th>
-            <td colspan="4" class="stage-earth">Invited talk 1 <!-- 40 minutes : <a href="https://alechina-logan.net/brian/" target="_blank">Brian Logan</a> <i style="font-size:12px">[Chair: Rafael C. Cardoso]</i>-->
+            <td colspan="4" class="stage-earth">Invited talk: Viviana Mascardi, Associate Professor, University of Genoa<!-- 40 minutes : <a href="https://alechina-logan.net/brian/" target="_blank">Brian Logan</a> <i style="font-size:12px">[Chair: Rafael C. Cardoso]</i>-->
               <span> 
                   <b>Title:</b> <i>Talking agents in the virtual world</i> <br/>
                   <b>Abstract:</b> What do chatbots and the metaverse have to do with reliability, cognitive agents, and robotic applications? <span id="dots1">...</span> <span id="more1" style="display:none">In this talk I will explore the intriguing connections among them, presenting a small scale prototype of (reliable) "talking agents in the virtual world".<br/>
