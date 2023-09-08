@@ -55,9 +55,11 @@ Time in <a href="https://time.is/CEST">CEST timezone</a>.
             <th>09:05</th>
             <td colspan="4" class="stage-earth">Invited talk 1 <!-- 40 minutes : <a href="https://alechina-logan.net/brian/" target="_blank">Brian Logan</a> <i style="font-size:12px">[Chair: Rafael C. Cardoso]</i>-->
               <!--<span> 
-                  <b>Title:</b> <i>TITLE</i> <br/>
-                  <b>Abstract:</b> ABSTRACT.. <span id="dots1">...</span> <span id="more1" style="display:none">MORE ABSTRACT..<br/>
-                  <b>Short Bio:</b> BIO
+                  <b>Title:</b> <i>Talking agents in the virtual world</i> <br/>
+                  <b>Abstract:</b> What do chatbots and the metaverse have to do with reliability, cognitive agents, and robotic applications? <span id="dots1">...</span> <span id="more1" style="display:none">In this talk I will explore the intriguing connections among them, presenting a small scale prototype of (reliable) "talking agents in the virtual world".<br/>
+                  <b>Short Bio:</b> Viviana Mascardi is Associate Professor in Computer Science at the University of Genova (UNIGE), Italy, DIBRIS (Dipartimento di Informatica, Bioingegneria, Robotica e Ingegneria dei Sistemi). She graduated cum laude at the University of Genova in 1996 and she got her PhD in Computer Science from the same University in 2002.
+    She authored almost 20 papers in International Jand National ournals (including top ranked journals like TPLP and IEEE TKDE), almost 70 papers in International Book Chapters and International Conferences Proceedings (including top ranked conferences like AAMAS, with CORE rating A*), more than 25 papers in Italian Conferences Proceedings.
+Her research interests are (but not limited to): Distributed Artificial Intelligence Multiagent Systems (MAS) Runtime Verification (RV) MAS modeling, verification, rapid prototyping using computational logic Multilingual semantic interoperability via Semantic Web technologies and ontologies Artificial Intelligence and Law.
                   </span>
               <button style="color:blue;" onclick="myFunction1()" id="myBtn1">Read more</button>
               </span>-->
@@ -115,11 +117,11 @@ Time in <a href="https://time.is/CEST">CEST timezone</a>.
         </tr>
         <tr>
             <th>13:30</th>
-            <td colspan="4" class="stage-earth">Invited talk 2 <!-- 40 minutes : <a href="https://alechina-logan.net/brian/" target="_blank">Brian Logan</a> <i style="font-size:12px">[Chair: Rafael C. Cardoso]</i>-->
+            <td colspan="4" class="stage-earth">Invited Talk: Bruno Lacerda, Senior Researcher in Robotics, University of Oxford<!-- 40 minutes : <a href="https://alechina-logan.net/brian/" target="_blank">Brian Logan</a> <i style="font-size:12px">[Chair: Rafael C. Cardoso]</i>-->
               <!--<span> 
-                  <b>Title:</b> <i>TITLE</i> <br/>
-                  <b>Abstract:</b> ABSTRACT.. <span id="dots1">...</span> <span id="more2" style="display:none">MORE ABSTRACT..<br/>
-                  <b>Short Bio:</b> BIO
+                  <b>Title:</b> <i>Model-Based Reasoning under Uncertainty for Reliable Robot Mission Planning</i> <br/>
+                  <b>Abstract:</b> In this presentation, I will argue that the synergy between three factors is critical for creating reliable mission planning algorithms for autonomous robots operating in uncontrolled environments. These factors are <span id="dots1">...</span> <span id="more2" style="display:none">(i) utilising historical data gathered online to enhance decision-making under uncertainty models, (ii) implementing principled planning techniques that explicitly reason about the epistemic uncertainty inherent to these data-driven models, and (iii) incorporating rich specifications that go beyond typical expected reward maximisation problems. Developing frameworks that unify these three factors is an open problem in the field of robotics, which is heavily dependent on the specific application domain. I will offer an overview of various works undertaken at the GOALS lab at the Oxford Robotics Institute that consider these three factors in distinct ways. Moreover, I will describe how these works provide a foundation for creating integrated approaches that enable long-term deployment of robots capable of acquiring parametrised environmental models from historical data, plan considering the epistemic uncertainty of such models, and effectively adapt their behaviour to in-mission observations, continuously refining their estimate over the epistemic uncertainty online.<br/>
+                  <b>Short Bio:</b> Bruno Lacerda is a Senior Researcher at the Oxford Robotics Institute, University of Oxford, UK. He received his Ph.D. in Electrical and Computing Engineering from the Instituto Superior Técnico, University of Lisbon, Portugal, in 2013. Between 2013 and 2017, he was a Research Fellow at the School of Computer Science, University of Birmingham, UK. His research focuses on the intersection of decision-making under uncertainty, formal methods, and mobile robotics. In particular, he is interested in using a combination of techniques from learning, planning and model checking to synthesise intelligent, robust and verifiable behaviour, for both single and multi-robot systems.
                   </span>
               <button style="color:blue;" onclick="myFunction2()" id="myBtn2">Read more</button>
               </span>-->
