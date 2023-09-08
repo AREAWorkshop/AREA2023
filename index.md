@@ -266,7 +266,7 @@ Please register at <a href="https://ecai2023.eu/registrations" target="_blank">h
 ## Invited Speakers
 <ul>
   <li>Viviana Mascardi, Genoa University (Italy)</li>
-  <li>Nick Hawes/Bruno Lacerda, University of Oxford (United Kingdom)</li>
+  <li>Bruno Lacerda, University of Oxford (United Kingdom)</li>
 </ul>
 
 ## Organisers
