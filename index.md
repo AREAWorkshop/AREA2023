@@ -34,6 +34,10 @@ image: https://areaworkshop.github.io/AREA2023/images/logos/area_logo_1.png
 <div class="columns large-7" >
 <div markdown="1">
 
+## Proceedings
+
+The AREA 2023 proceedings are available at <a href="https://cgi.cse.unsw.edu.au/~eptcs/content.cgi?AREA2023">https://cgi.cse.unsw.edu.au/~eptcs/content.cgi?AREA2023</a>
+
 
 ## Workshop Programme
 
